@@ -1,0 +1,26 @@
+{
+  "name": "jh-tslint",
+  "version": "1.0.0",
+  "description": "Tslint preset and Typescript Style Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDJiaMi/jh-tslint.git"
+  },
+  "keywords": ["typescript", "tslint", "tslint-preset"],
+  "author": "carney520",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GDJiaMi/jh-tslint/issues"
+  },
+  "homepage": "https://github.com/GDJiaMi/jh-tslint#readme",
+  "peerDependencies": {
+    "tslint": "^5.6.0",
+    "tslint-eslint-rules": "^4.1.1",
+    "tslint-react": "^3.2.0",
+    "typescript": "^2.4.2"
+  }
+}
