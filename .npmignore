@@ -1,0 +1,16 @@
+#editors
+.vscode
+
+# modules
+node_modules
+
+#configuration
+.editorconfig
+
+# extensions
+*.log
+
+#other
+.DS_Store
+README.md
+style-guide.md

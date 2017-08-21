@@ -14,7 +14,7 @@ npm i jh-tslint --save-dev
 
 ## Usage
 创建你自己的`tslint.json`, 并通过`extends`选项继承`jh-tslint`
-```json
+```javascript
 {
   "extends": ["jh-tslint"],
   "rules" {
